@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '9501'
     url: http://www.gutenberg.org/2009/agents/9501
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20741#The-Adventures-of-a-Dog-and-a-Good-Dog-Too
 gutenberg_issued: '2007-03-04'
 gutenberg_type: Text
 identifiers:
