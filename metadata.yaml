@@ -1,0 +1,38 @@
+_repo: The-Adventures-of-a-Dog-and-a-Good-Dog-Too_20741
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elwes, Alfred
+    deathdate: 1888
+    gutenberg_agent_id: '9501'
+    url: http://www.gutenberg.org/2009/agents/9501
+description: ''
+gutenberg_issued: '2007-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Honesty -- Juvenile fiction'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Wit and humor, Juvenile'
+title: The Adventures of a Dog, and a Good Dog Too
+url: http://www.gutenberg.org/ebooks/20741
